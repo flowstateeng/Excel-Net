@@ -1,5 +1,5 @@
 <p align="center">
-	<img src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/cover-slide.png' alt='Cover Slide'/>
+	<img src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/banner.png' alt='Cover Slide'/>
 </p>
 
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
