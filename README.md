@@ -4,10 +4,13 @@
 <br/>
 
 # Excel-Net
+A neural network in a single Excel spreadsheet.
+
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-NONE-green.svg)
 
-A neural network in a single Excel spreadsheet. Using a small training dataset, the single-layer neural network learns to predict housing prices, based on several input values (e.g., # of bedrooms, # of bathrooms, sq. ft., etc.). It does this by adjusting the model's weights over ten cycles of "gradient descent." After training, the model then is tested on new, unseen data from a small testing dataset.
+# Description
+Using a small training dataset, the single-layer neural network learns to predict housing prices, based on several input values (e.g., # of bedrooms, # of bathrooms, sq. ft., etc.). It does this by adjusting the model's weights over ten cycles of "gradient descent." After training, the model then is tested on new, unseen data from a small testing dataset.
 
 Graphs of the model's predictions are shown at each cycle of training, along with the model's error, training accuracy, etc. The first and final graphs are shown again at the top of the sheet for comparison, as well as graphs of the model's cost and accuracy throughout training.
 
