@@ -16,7 +16,7 @@ Using a small training dataset, the single-layer neural network learns to predic
 
 Graphs of the model's predictions are shown at each cycle of training, along with the model's error, training accuracy, etc. The first and final graphs are shown again at the top of the sheet for comparison, as well as graphs of the model's cost and accuracy throughout training.
 
-You can adjust the "learning rate" cell at the top of the sheet and it will update instantly (depending on the speed of your pc), to show the new values & graphs during the training and testing processes.
+Check the video demo [on YouTube](https://youtube.com/@johnathanalyst)
 
 [Follow](https://www.youtube.com/@johnathanalyst?sub_confirmation=1) on YouTube for demos and guides in AI, finance, IoT, software engineering and more.
 
@@ -39,9 +39,12 @@ Enjoy!
 
 
 ## Usage
-Make a TinkerCAD account and create a new circuit. Import the ".brd" file into your project and run the simulation. Use the sliders to adjust the temperature for each circuit and see the response in the Serial Monitor (lower-right), and from the LEDs.
+Download the repository and open the Excel file. You can adjust the "learning rate" cell at the top of the sheet and it will update instantly (depending on the speed of your pc), to show the new values & graphs during the training and testing processes.
 
+!!! WARNING: NONE OF THE CELLS IN THIS SHEET ARE LOCKED OR PROTECTED! IF YOU CHANGE ANY CELLS OTHER THAN THE LEARNING RATE, THINGS CAN EASILY FAIL! !!!
 <br/>
+
+
 <p align="center">
 	<img width=650 src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/results.png' alt='Results'/>
 </p><br/>
