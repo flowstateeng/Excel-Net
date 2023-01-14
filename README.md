@@ -1,13 +1,14 @@
-<p align="center">
-	<img src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/banner.png' alt='Cover Slide'/>
-</p>
-<br/>
-
 # Excel-Net
 A neural network in a single Excel spreadsheet.
 
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-NONE-green.svg)
+<br/>
+
+
+<p align="center">
+	<img src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/banner.png' alt='Cover Slide'/>
+</p>
 <br/>
 
 
