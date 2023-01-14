@@ -43,12 +43,12 @@ Enjoy!
 Download the repository and open the Excel file. You can adjust the "learning rate" cell at the top of the sheet and it will update instantly (depending on the speed of your pc), to show the new values & graphs during the training and testing processes.
 
 !!! WARNING: NONE OF THE CELLS IN THIS SHEET ARE LOCKED OR PROTECTED! IF YOU CHANGE ANY CELLS OTHER THAN THE LEARNING RATE, THINGS CAN EASILY FAIL! !!!
-<br/>
+<br/><br/>
 
 
 ## Test Results
 <p align="center">
-	<img width=800 src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/results.png' alt='Results'/>
+	<img width="100%" src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/results.png' alt='Results'/>
 </p><br/>
 
 ## "Gradient Descent" (aka, training process)
