@@ -1,5 +1,5 @@
 <p align="center">
-	<img src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/banner.png' alt='Cover Slide'/>
+	<img width="100%" src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/banner.png' alt='Cover Slide'/>
 </p>
 <br/>
 
@@ -53,17 +53,17 @@ Download the repository and open the Excel file. You can adjust the "learning ra
 
 ## "Gradient Descent" (aka, training process)
 <p align="center">
-	<img width=800 src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/gradient-descent.png' alt='Training'/>
+	<img width="100%" src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/gradient-descent.png' alt='Training'/>
 </p><br/>
 
 ## Model Cost Each Cycle
 <p align="center">
-	<img width=800 src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/cost.png' alt='Cost'/>
+	<img width="100%" src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/cost.png' alt='Cost'/>
 </p><br/>
 
 ## Model Training Accuracy Each Cycle
 <p align="center">
-	<img width=800 src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/accuracy.png' alt='Accuracy'/>
+	<img width="100%" src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/accuracy.png' alt='Accuracy'/>
 </p>
 <br/>
 
