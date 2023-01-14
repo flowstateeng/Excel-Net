@@ -27,8 +27,7 @@ Enjoy!
 
 
 ## Prerequisites
-* web browser
-* TinkerCAD account
+* Excel
 <br/><br/>
 
 
