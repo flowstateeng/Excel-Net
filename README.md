@@ -44,11 +44,19 @@ Make a TinkerCAD account and create a new circuit. Import the ".brd" file into y
 
 <br/>
 <p align="center">
-	<img src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/cost.png' alt='Cost'/>
+	<img width=650 src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/results.png' alt='Results'/>
 </p><br/>
 
 <p align="center">
-	<img src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/accuracy.png' alt='Accuracy'/>
+	<img width=650 src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/gradient-descent.png' alt='Training'/>
+</p><br/>
+
+<p align="center">
+	<img width=650 src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/cost.png' alt='Cost'/>
+</p><br/>
+
+<p align="center">
+	<img width=650 src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/accuracy.png' alt='Accuracy'/>
 </p>
 <br/>
 
