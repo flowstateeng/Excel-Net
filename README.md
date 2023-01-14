@@ -34,7 +34,7 @@ Enjoy!
 
 ## Installation
 ```bash
-	git clone https://github.com/johnathanalyst/Excel-Net.git
+ git clone https://github.com/johnathanalyst/Excel-Net.git
 ```
 <br/>
 
