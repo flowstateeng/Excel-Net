@@ -19,6 +19,10 @@ Graphs of the model's predictions are shown at each cycle of training, along wit
 You can adjust the "learning rate" cell at the top of the sheet and it will update instantly (depending on the speed of your pc), to show the new values & graphs during the training and testing processes.
 
 [Follow](https://www.youtube.com/@johnathanalyst?sub_confirmation=1) on YouTube for demos and guides in AI, finance, IoT, software engineering and more.
+
+Feel free to ask me questions on [GitHub](https://github.com/johnathanalyst) or at me@johnathanalyst.com.
+
+Enjoy!
 <br/><br/>
 
 
@@ -37,10 +41,6 @@ You can adjust the "learning rate" cell at the top of the sheet and it will upda
 
 ## Usage
 Make a TinkerCAD account and create a new circuit. Import the ".brd" file into your project and run the simulation. Use the sliders to adjust the temperature for each circuit and see the response in the Serial Monitor (lower-right), and from the LEDs.
-
-Feel free to ask me questions on [GitHub](https://github.com/johnathanalyst) or at me@johnathanalyst.com.
-
-Enjoy!
 
 <br/>
 <p align="center">
