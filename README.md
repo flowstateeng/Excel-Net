@@ -48,7 +48,7 @@ Download the repository and open the Excel file. You can adjust the "learning ra
 
 ## Test Results
 <p align="center">
-	<img width="100%" src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/results.png' alt='Results'/>
+	<img width="100%" src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/test-results.png' alt='Results'/>
 </p><br/>
 
 ## "Gradient Descent" (aka, training process)
