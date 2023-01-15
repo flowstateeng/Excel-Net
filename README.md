@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="100%" src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/banner.png' alt='Cover Slide'/>
+	<img width="100%" src='https://github.com/johnathanalyst/Excel-Net/blob/main/imgs/proj-banner.png' alt='Cover Slide'/>
 </p>
 <br/>
 
